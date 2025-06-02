@@ -125,15 +125,3 @@ class DocumentRetriever:
             print(f"Error retrieving documents: {e}")
             return f"Error retrieving documents: {str(e)}"
 
-rtr = DocumentRetriever(db_path="../chroma_db")   # use same absolute path
-print("Collections:", rtr.get_all_collections())  # should list all_projects, project_CS01, …
-
-hits = rtr.retrieve_documents("How can I stay safe on café Wi-Fi?", top_k=3)
-
-cross = CrossEncoder("cross-encoder/ms-marco-MiniLM-L-6-v2")
-pairs  = [[h["text"], "How can I avoid MiTM on public Wi-Fi?"] for h in hits]
-scores = cross.predict(pairs)
-hits   = [h for _, h in sorted(zip(scores, hits), reverse=True)][:3]
-
-for h in hits:
-    print(f"{h['distance']:.3f} | {h['text'][:120]}…")
