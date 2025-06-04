@@ -1,0 +1,56 @@
+{
+  "quiz_id": "SB01-QZ-0001",
+  "module_code": "SB01",
+  "questions": [
+    {
+      "id": "SB01-T3-001",
+      "stem": "At a crowded café you need to look up your flight time and send a quick email. In 1–3 sentences, list the safe steps you would take before and during this short use of the café’s free Wi-Fi.",
+      "rubric": [
+        {"point": "Turn on a trusted VPN first", "value": 1, "weight": 0.40},
+        {"point": "Avoid typing or sending sensitive data", "value": 1, "weight": 0.35},
+        {"point": "Rely on 2FA/antivirus already set up to catch surprises", "value": 1, "weight": 0.25}
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "SB01-T3-002",
+      "stem": "While using airport Wi-Fi a full-screen pop-up claims a “critical update” is needed and urges you to click. Briefly describe how you would handle the pop-up and why.",
+      "rubric": [
+        {"point": "Do not click or install unknown pop-ups on public Wi-Fi", "value": 1, "weight": 0.45},
+        {"point": "Get updates only through the device’s own store or maker site later", "value": 1, "weight": 0.35},
+        {"point": "Keep antivirus active to block hidden malware", "value": 1, "weight": 0.20}
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "SB01-T4-003",
+      "stem": "After banking on hotel lobby Wi-Fi you realise you stayed logged-in. In a couple of sentences explain the immediate steps you should take to stop a possible session hijack.",
+      "rubric": [
+        {"point": "Log out and clear browser data/cookies at once", "value": 1, "weight": 0.40},
+        {"point": "Disconnect from the public Wi-Fi (or forget the network)", "value": 1, "weight": 0.35},
+        {"point": "Rely on or enable 2FA to limit future misuse", "value": 1, "weight": 0.25}
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "SB01-T4-004",
+      "stem": "A colleague suggests emailing payroll details over the coffee-shop Wi-Fi because “it’s just numbers.” In short, explain why this is risky and offer a safer way to share the file right now.",
+      "rubric": [
+        {"point": "Public Wi-Fi allows Man-in-the-Middle eavesdropping", "value": 1, "weight": 0.40},
+        {"point": "Propose waiting for trusted network, mobile data, or using a VPN", "value": 1, "weight": 0.35},
+        {"point": "If it must be sent, encrypt or password-protect the file first", "value": 1, "weight": 0.25}
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "SB01-T5-005",
+      "stem": "You must check your bank urgently but only public Wi-Fi is available. Outline, in 2–3 sentences, a layered approach that reduces the dangers described in the module.",
+      "rubric": [
+        {"point": "Activate a reputable VPN before logging in", "value": 1, "weight": 0.35},
+        {"point": "Use banking with 2FA/OTP so stolen login alone is useless", "value": 1, "weight": 0.30},
+        {"point": "Log out, close browser, and disconnect from Wi-Fi right after finishing", "value": 1, "weight": 0.35}
+      ],
+      "difficulty": 5
+    }
+  ]
+}

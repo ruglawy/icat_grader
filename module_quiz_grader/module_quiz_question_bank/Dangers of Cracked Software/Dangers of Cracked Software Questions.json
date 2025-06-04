@@ -1,0 +1,56 @@
+{
+  "quiz_id": "CS01-QZ-0001",
+  "module_code": "CS01",
+  "questions": [
+    {
+      "id": "CS01-T3-001",
+      "stem": "A friend sends you a cracked video editor that works only if you disable your antivirus first. In 1–3 sentences, explain why this is risky and what safer choice you would make instead.",
+      "rubric": [
+        {"point": "Disabling protection invites hidden malware/credential-stealers bundled with cracks", "value": 1, "weight": 0.40},
+        {"point": "Refuse the cracked copy and look for a legal free/trial or open-source alternative", "value": 1, "weight": 0.35},
+        {"point": "Warn the friend or report the source to prevent further spread", "value": 1, "weight": 0.25}
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "CS01-T4-002",
+      "stem": "After installing a pirated game, your laptop fans roar and the CPU stays at 90 %. Describe, in a few sentences, what may be happening and the immediate steps you would take.",
+      "rubric": [
+        {"point": "Recognise possible cryptojacking/mining software hidden in the crack", "value": 1, "weight": 0.40},
+        {"point": "Uninstall the cracked program and run a full malware scan or clean restore", "value": 1, "weight": 0.35},
+        {"point": "Monitor system performance and avoid future untrusted downloads", "value": 1, "weight": 0.25}
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "CS01-T4-003",
+      "stem": "You open your design files and see a note: “Files encrypted—pay within 48 h.” You remember installing a cracked plug-in last night. Briefly outline your response plan.",
+      "rubric": [
+        {"point": "Disconnect the device from networks to stop spread of ransomware", "value": 1, "weight": 0.35},
+        {"point": "Restore data from clean backups instead of paying the ransom", "value": 1, "weight": 0.35},
+        {"point": "Learn to avoid cracked software that can carry ransomware in future", "value": 1, "weight": 0.30}
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "CS01-T3-004",
+      "stem": "A coworker suggests saving licence fees by using a cracked accounting tool for client data. In 1–3 sentences, state the main dangers and a safer alternative.",
+      "rubric": [
+        {"point": "Highlights risk of data breach or malware stealing sensitive client records", "value": 1, "weight": 0.40},
+        {"point": "Mentions legal/licensing penalties for using pirated software", "value": 1, "weight": 0.30},
+        {"point": "Proposes using genuine paid, free, or open-source software instead", "value": 1, "weight": 0.30}
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "CS01-T5-005",
+      "stem": "You used cracked software last week. Today you must buy gifts online but worry a keylogger may be watching. Outline, in 2–3 sentences, the precautions you would take before entering card details.",
+      "rubric": [
+        {"point": "Run a reputable malware scan or use a separate clean device", "value": 1, "weight": 0.35},
+        {"point": "Use virtual/one-time payment methods or two-factor checkout to limit theft impact", "value": 1, "weight": 0.30},
+        {"point": "Plan to uninstall the crack and reinstall the OS or restore from backup if infection found", "value": 1, "weight": 0.35}
+      ],
+      "difficulty": 5
+    }
+  ]
+}

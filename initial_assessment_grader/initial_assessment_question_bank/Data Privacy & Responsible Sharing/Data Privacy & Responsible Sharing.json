@@ -1,0 +1,209 @@
+[
+    {
+      "question_id": "DP-M3-201",
+      "domain": "Data Privacy",
+      "difficulty": 3,
+      "type": "mcq",
+      "stem": "A free recipe-finder app wants your exact location to suggest nearby grocery deals, as well as your photos to read barcodes of grocery items. Both permissions are marked required before you can browse any recipes.",
+      "choices": {
+        "A": "Allow everything to get access to recipes",
+        "B": "Deny and check if the app still works or find another one",
+        "C": "Allow temporarily and turn it off when done",
+        "D": "Send the developer an email asking why they need photos"
+      },
+      "correct_choice": "B",
+      "rubric": null
+    },
+    {
+      "question_id": "DP-M3-202",
+      "domain": "Data Privacy",
+      "difficulty": 3,
+      "type": "mcq",
+      "stem": "Your cousin posts a public birthday video of you and tags your full name plus school on a social platform. The post is already gaining shares.",
+      "choices": {
+        "B": "Comment thanks and leave it public",
+        "A": "Politely ask them to switch the audience to friends-only or remove tags",
+        "C": "Share the post yourself for more likes",
+        "D": "Ignore as it has already been posted online"
+      },
+      "correct_choice": "A",
+      "rubric": null
+    },
+    {
+      "question_id": "DP-M3-204",
+      "domain": "Data Privacy",
+      "difficulty": 3,
+      "type": "mcq",
+      "stem": "A classmate offers to store your project draft on their personal cloud drive so the group can edit. They send a link that says anyone with link can edit.",
+      "choices": {
+        "A": "Upload right away for easier collaboration",
+        "C": "Ask them to set the link so only teammates with access can edit",
+        "B": "Send the file by email as it's more secure",
+        "D": "Print the draft and hand it over instead"
+      },
+      "correct_choice": "C",
+      "rubric": null
+    },
+    {
+      "question_id": "DP-M4-206",
+      "domain": "Data Privacy",
+      "difficulty": 4,
+      "type": "mcq",
+      "stem": "Your favorite and famous photo-editing app suddenly adds a new feature that scans every picture on your phone to suggest storage savings. It says this will upload thumbnails to their server for analysis.",
+      "choices": {
+        "A": "Enable scan—space is precious",
+        "D": "Keep the app but skip the scan and clean photos manually",
+        "C": "Uninstall the app and move to another editor to be safe",
+        "B": "Enable scan but turn off mobile data first to be secure"
+      },
+      "correct_choice": "D",
+      "rubric": null
+    },
+    {
+      "question_id": "DP-M4-207",
+      "domain": "Data Privacy",
+      "difficulty": 4,
+      "type": "mcq",
+      "stem": "A scholarship form hosted on a third-party site (which is secure and genuine) asks for your parents’ income documents and also requests access to your personal email inbox to fetch recommendation letters automatically.",
+      "choices": {
+        "A": "Grant inbox access for convenience",
+        "B": "Upload only the needed documents and refuse inbox permission",
+        "C": "Grant access, then change email password later",
+        "D": "Skip the application as scholarships are competitive"
+      },
+      "correct_choice": "B",
+      "rubric": null
+    },
+    {
+      "question_id": "DP-M4-208",
+      "domain": "Data Privacy",
+      "difficulty": 4,
+      "type": "mcq",
+      "stem": "A bargain flight site offers cheaper tickets if you sign in with your Facebook account and agree to share your friends list for referral bonuses.",
+      "choices": {
+        "A": "Sign in that way, savings matter",
+        "C": "Book as guest or through the airline directly without sharing friends list",
+        "B": "Sign in but delete the bonus posts after purchase",
+        "D": "Use a secondary social account with few friends"
+      },
+      "correct_choice": "C",
+      "rubric": null
+    },
+    {
+      "question_id": "DP-M4-209",
+      "domain": "Data Privacy",
+      "difficulty": 4,
+      "type": "mcq",
+      "stem": "At a public exhibition, a booth hands out USB bracelets loaded with company brochures. They say you must plug it in to view hidden discount codes.",
+      "choices": {
+        "A": "Try the USB on your laptop",
+        "D": "Ask for a website link or printed code instead of plugging in the USB",
+        "C": "Plug it into a friend’s computer first just to make sure they have the codes",
+        "B": "Keep it as a souvenir and forget about discounts"
+      },
+      "correct_choice": "D",
+      "rubric": null
+    },
+    {
+      "question_id": "DP-M4-210",
+      "domain": "Data Privacy",
+      "difficulty": 4,
+      "type": "mcq",
+      "stem": "A new language-learning app requests microphone access even when not using voice lessons to improve pronunciation hints.",
+      "choices": {
+        "A": "Allow access to the microphone",
+        "B": "Allow only while using the voice feature, not in the background",
+        "C": "Block and see if the app stops working",
+        "D": "Cover the microphone hole with tape to prevent it from listening just in case"
+      },
+      "correct_choice": "B",
+      "rubric": null
+    },
+    {
+      "question_id": "DP-M5-211",
+      "domain": "Data Privacy",
+      "difficulty": 5,
+      "type": "mcq",
+      "stem": "A stranger on a collectibles forum offers to trade rare cards if you first email a copy of your passport to verify age and shipping name.",
+      "choices": {
+        "B": "Send the passport to secure the trade",
+        "A": "Refuse and suggest using the platform’s built-in identity check",
+        "C": "Blur half the passport and send it to avoid sending confidential data",
+        "D": "Send a different ID you found online to be safe"
+      },
+      "correct_choice": "A",
+      "rubric": null
+    },
+    {
+      "question_id": "DP-M5-212",
+      "domain": "Data Privacy",
+      "difficulty": 5,
+      "type": "mcq",
+      "stem": "A data-cleaning service advertises that it will delete all old posts from your social accounts if you give them your login and security answers. They show impressive before-and-after screenshots.",
+      "choices": {
+        "A": "Give credentials as cleanup is worth it, it may also remove digital footprints",
+        "B": "Log in yourself and use the platform’s own archive or delete tools",
+        "C": "Share credentials but change password after they're done immediately",
+        "D": "Open a new account instead"
+      },
+      "correct_choice": "B",
+      "rubric": null
+    },
+    {
+      "question_id": "DP-M5-213",
+      "domain": "Data Privacy",
+      "difficulty": 5,
+      "type": "mcq",
+      "stem": "Your smart TV suggests linking your phone contacts so it can show when friends are watching the same show. The prompt warns that some features won’t work otherwise.",
+      "choices": {
+        "A": "Link contacts as social viewing is fun",
+        "C": "Skip linking and enjoy shows without sharing contacts",
+        "B": "Link but delete contacts later",
+        "D": "Use a relative’s phone number instead"
+      },
+      "correct_choice": "C",
+      "rubric": null
+    },
+    {
+      "question_id": "DP-M5-215",
+      "domain": "Data Privacy",
+      "difficulty": 5,
+      "type": "mcq",
+      "stem": "A celebrity beauty brand’s giveaway requires posting a selfie holding your ID card and tagging three friends. The rules say winners are chosen live tomorrow.",
+      "choices": {
+        "A": "Post to have a chance at winning",
+        "B": "Pass on the contest to avoid sharing your ID openly",
+        "C": "Tag only two friends so odds stay better",
+        "D": "Post but blur part of the ID number to be secure"
+      },
+      "correct_choice": "B",
+      "rubric": null
+    },
+    {
+      "question_id": "DP-T3-216",
+      "domain": "Data Privacy",
+      "difficulty": 3,
+      "type": "essay",
+      "stem": "Your sports club emails a link to a shared photo album from last weekend. It requests you sign in with your personal email and allow album host to access contacts so they can notify anyone tagged. In 1–3 sentences, explain what you would do and why.",
+      "choices": null,
+      "correct_choice": null,
+      "rubric": [
+        {
+          "point": "Access album without granting unnecessary contact access (or request direct link)",
+          "value": 1,
+          "weight": 0.40
+        },
+        {
+          "point": "Consider downloading only the photos you need or ask club to share differently",
+          "value": 1,
+          "weight": 0.35
+        },
+        {
+          "point": "Be cautious about services that ask for more permissions than needed",
+          "value": 1,
+          "weight": 0.25
+        }
+      ]
+    }
+  ]
+  

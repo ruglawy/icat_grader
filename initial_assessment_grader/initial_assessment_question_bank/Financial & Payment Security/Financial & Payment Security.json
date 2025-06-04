@@ -1,0 +1,209 @@
+[
+    {
+      "question_id": "FI-M3-102",
+      "domain": "Financial Security",
+      "difficulty": 3,
+      "type": "mcq",
+      "stem": "You receive an SMS message claiming to be Uber requesting you to re-link your credit card. The link opens a web page asking for full card number and the SMS code, yet the normal payment screen in the app itself still shows your card as active.",
+      "choices": {
+        "A": "Open pop-up and re-link at once",
+        "B": "Close pop-up and check your card only through the app’s regular settings",
+        "C": "Send the SMS code but not the card number",
+        "D": "Ignore until your next ride and hope it clears"
+      },
+      "correct_choice": "B",
+      "rubric": null
+    },
+    {
+      "question_id": "FI-M3-103",
+      "domain": "Financial Security",
+      "difficulty": 3,
+      "type": "mcq",
+      "stem": "An email from a crowdfunding site warns that a project will cancel your pledge unless you confirm card ownership now. The link goes to “.support-pay.com” and demands card data plus your password within the hour, though the campaign page still shows everything as normal.",
+      "choices": {
+        "B": "Click and enter details to keep pledge",
+        "A": "Log in through your usual bookmarked address and review the project there",
+        "C": "Reply to the email asking them for more proof to make sure they're legit.",
+        "D": "Delete the pledge to avoid problems"
+      },
+      "correct_choice": "A",
+      "rubric": null
+    },
+    {
+      "question_id": "FI-M3-104",
+      "domain": "Financial Security",
+      "difficulty": 3,
+      "type": "mcq",
+      "stem": "A text reads: “Bank Rewards: you earned a $50 bonus. To release funds send a $2 verification deposit to wallet 9XZQ within 15 minutes.”",
+      "choices": {
+        "A": "Transfer $2 to claim bonus",
+        "D": "Ignore and check any rewards only inside your banking app",
+        "C": "Call the mobile number for proof",
+        "B": "Forward the message to friends so they can earn too"
+      },
+      "correct_choice": "D",
+      "rubric": null
+    },
+    {
+      "question_id": "FI-M4-106",
+      "domain": "Financial Security",
+      "difficulty": 4,
+      "type": "mcq",
+      "stem": "A brand-new investment app offers double interest if you finish sign-up fast. It demands a selfie with a photo of both sides of your national ID card for verification.",
+      "choices": {
+        "A": "Upload everything to gain the rate",
+        "D": "Search reviews and, if you join, register through the official app store",
+        "C": "Send the selfie but without the card",
+        "B": "Ask friends who joined to share their photos in chat"
+      },
+      "correct_choice": "D",
+      "rubric": null
+    },
+    {
+      "question_id": "FI-M4-108",
+      "domain": "Financial Security",
+      "difficulty": 4,
+      "type": "mcq",
+      "stem": "Your music-streaming service emails: “Switch from card to direct debit today and save 30 % for life.” The email link asks for bank account and routing numbers.",
+      "choices": {
+        "A": "Enter bank details to grab discount",
+        "B": "Log into the service directly to verify any offer",
+        "C": "Reply to the email asking if it’s real",
+        "D": "Wait until next billing cycle before acting"
+      },
+      "correct_choice": "B",
+      "rubric": null
+    },
+    {
+      "question_id": "FI-M4-109",
+      "domain": "Financial Security",
+      "difficulty": 4,
+      "type": "mcq",
+      "stem": "An online seller of rare sneakers insists you pay using the friends and family option to avoid fees, saying buyer protection slows everything. They promise a tracking number within an hour.",
+      "choices": {
+        "A": "Pay that way to secure the deal",
+        "C": "Insist on the standard goods/services payment despite higher fee",
+        "B": "Offer cash on delivery instead",
+        "D": "Split payment half friends/family, half goods/services"
+      },
+      "correct_choice": "C",
+      "rubric": null
+    },
+    {
+      "question_id": "FI-M4-110",
+      "domain": "Financial Security",
+      "difficulty": 4,
+      "type": "mcq",
+      "stem": "A coworker with a maxed-out personal card asks to borrow the company credit card you manage to book a flight, promising to return the cash.",
+      "choices": {
+        "B": "Give the card details for teamwork",
+        "A": "Refuse and direct them to finance for proper approval",
+        "C": "Book the flight yourself and hide the receipt",
+        "D": "Lend your personal card instead"
+      },
+      "correct_choice": "A",
+      "rubric": null
+    },
+    {
+      "question_id": "FI-M5-111",
+      "domain": "Financial Security",
+      "difficulty": 5,
+      "type": "mcq",
+      "stem": "Someone claiming to be from the revenue agency says you’re owed a refund. They ask you to install a screen-sharing app and log in to your online banking so they can issue the credit.",
+      "choices": {
+        "A": "Install and follow their steps",
+        "B": "End the call and verify any refund only through the official agency portal",
+        "C": "Ask them to mail a check instead",
+        "D": "Keep them talking while you record for police"
+      },
+      "correct_choice": "B",
+      "rubric": null
+    },
+    {
+      "question_id": "FI-M5-112",
+      "domain": "Financial Security",
+      "difficulty": 5,
+      "type": "mcq",
+      "stem": "At a hotel, a pop-up claims your free Wi-Fi session expired and demands your card number and CVV to continue.",
+      "choices": {
+        "A": "Enter card to restore connection",
+        "D": "Disconnect and ask the front desk before entering anything",
+        "C": "Use someone else’s card just in case",
+        "B": "Switch to cellular data but leave page open"
+      },
+      "correct_choice": "D",
+      "rubric": null
+    },
+    {
+      "question_id": "FI-M5-113",
+      "domain": "Financial Security",
+      "difficulty": 5,
+      "type": "mcq",
+      "stem": "An email carrying your payment gateway’s logo warns your account will be suspended unless you run the attached “SecureUpdate.exe.” The mail greets you by username.",
+      "choices": {
+        "A": "Run the attachment to avoid a freeze",
+        "C": "Log in through the gateway’s known website and check any alerts there",
+        "B": "Reply asking if the patch is genuine",
+        "D": "Forward the mail to staff so they update too"
+      },
+      "correct_choice": "C",
+      "rubric": null
+    },
+    {
+      "question_id": "FI-M5-114",
+      "domain": "Financial Security",
+      "difficulty": 5,
+      "type": "mcq",
+      "stem": "A private Telegram group promises to double any cryptocurrency you send within 24 hours, showing screenshots of big payouts. Members urge you to transfer at least 0.05 BTC immediately before the countdown ends.",
+      "choices": {
+        "B": "Send the minimum as a test",
+        "A": "Research the group independently and send nothing",
+        "C": "Ask admin for a smaller test amount first",
+        "D": "Share the link so friends can join too"
+      },
+      "correct_choice": "A",
+      "rubric": null
+    },
+    {
+      "question_id": "FI-M5-115",
+      "domain": "Financial Security",
+      "difficulty": 5,
+      "type": "mcq",
+      "stem": "You spot a loose plastic cover and extra wiring on a convenience-store ATM card slot. The previous user’s card worked normally.",
+      "choices": {
+        "A": "Insert your card anyway—the machine works",
+        "B": "Find another ATM",
+        "C": "Use the machine but shield the keypad carefully",
+        "D": "Ask the store clerk to inspect the machine first"
+      },
+      "correct_choice": "B",
+      "rubric": null
+    },
+    {
+      "question_id": "FI-T4-117",
+      "domain": "Financial Security",
+      "difficulty": 4,
+      "type": "essay",
+      "stem": "Your boss emails, asking you to buy three $100 gift cards and send the codes to them. Briefly describe how you would confirm the request and handle company funds.",
+      "choices": null,
+      "correct_choice": null,
+      "rubric": [
+        {
+          "point": "Verify the request through a direct call or internal chat",
+          "value": 1,
+          "weight": 0.40
+        },
+        {
+          "point": "Follow the company’s normal purchasing and approval process",
+          "value": 1,
+          "weight": 0.35
+        },
+        {
+          "point": "Recognize gift-card scam risks and suggest a safer payment method",
+          "value": 1,
+          "weight": 0.25
+        }
+      ]
+    }
+  ]
+  

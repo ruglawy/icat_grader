@@ -1,0 +1,104 @@
+[
+    {
+      "question_id": "AD-M3-302",
+      "domain": "Auth & Device",
+      "difficulty": 3,
+      "type": "mcq",
+      "stem": "While riding the subway you notice a stranger quickly glancing at your phone as you type your PIN. They appear to angle their own camera toward your screen.",
+      "choices": {
+        "A": "Turn slightly, shield the screen, and continue typing",
+        "B": "If possible, wait to unlock until you reach a private spot",
+        "C": "Let them watch; the PIN is short anyway",
+        "D": "Say your PIN out loud to confuse them"
+      },
+      "correct_choice": "B",
+      "rubric": null
+    },
+    {
+      "question_id": "AD-M3-303",
+      "domain": "Auth & Device",
+      "difficulty": 3,
+      "type": "mcq",
+      "stem": "A pop-up on your tablet says: “Boost battery life, grant device-admin rights to our optimizer.”",
+      "choices": {
+        "B": "Grant rights for better battery",
+        "A": "Deny and look for optimization tips from the maker",
+        "C": "Test it by granting access then revoke the access afterwards to be safe",
+        "D": "Ignore, battery life is fine"
+      },
+      "correct_choice": "A",
+      "rubric": null
+    },
+    {
+      "question_id": "AD-M3-305",
+      "domain": "Auth & Device",
+      "difficulty": 3,
+      "type": "mcq",
+      "stem": "A rideshare driver offers to plug your phone into their dashboard USB for faster charging.",
+      "choices": {
+        "A": "Plug in quickly as battery is low",
+        "C": "Use your own portable power bank instead",
+        "B": "Plug in but turn phone off first to be safe",
+        "D": "Hand the driver your own cable to use"
+      },
+      "correct_choice": "C",
+      "rubric": null
+    },
+    {
+      "question_id": "AD-M4-307",
+      "domain": "Auth & Device",
+      "difficulty": 4,
+      "type": "mcq",
+      "stem": "A free weather widget asks for permission to access your phone’s accessibility settings to update temperature even on the lock screen.",
+      "choices": {
+        "A": "Grant access, lock-screen data is helpful",
+        "D": "Deny and search for a simpler widget that needs fewer permissions",
+        "C": "Grant then revoke each night",
+        "B": "Grant only while traveling"
+      },
+      "correct_choice": "D",
+      "rubric": null
+    },
+    {
+      "question_id": "AD-M5-311",
+      "domain": "Auth & Device",
+      "difficulty": 5,
+      "type": "mcq",
+      "stem": "An email from a phone-repair shop claims your device qualifies for a free remote tune-up. They request you install a screen-sharing app and input a one-time code so they can verify device health.",
+      "choices": {
+        "A": "Install and share screen to get tune-up",
+        "C": "Decline and visit a trusted repair center in person if needed",
+        "B": "Install but don’t share code",
+        "D": "Share code while monitoring their actions"
+      },
+      "correct_choice": "C",
+      "rubric": null
+    },
+    {
+      "question_id": "AD-T3-316",
+      "domain": "Auth & Device",
+      "difficulty": 3,
+      "type": "essay",
+      "stem": "You must share your phone temporarily with a sibling to let them use a navigation app. In 1–3 sentences, describe how you would protect your private apps and data during that time.",
+      "choices": null,
+      "correct_choice": null,
+      "rubric": [
+        {
+          "point": "Enable guest mode or app lock/folder lock",
+          "value": 1,
+          "weight": 0.40
+        },
+        {
+          "point": "Log out or hide sensitive apps (banking, email)",
+          "value": 1,
+          "weight": 0.35
+        },
+        {
+          "point": "Supervise usage or set time limit, then review device afterward",
+          "value": 1,
+          "weight": 0.25
+        }
+      ]
+    }
+  ]
+  
