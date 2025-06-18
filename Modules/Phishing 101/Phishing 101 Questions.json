@@ -1,0 +1,56 @@
+{
+  "quiz_id": "PH01-QZ-0001",
+  "module_code": "PH01",
+  "questions": [
+    {
+      "id": "PH01-T3-001",
+      "stem": "You receive an email titled “Suspicious login—secure your account now!” with a link that looks almost like your bank’s site. In 1–3 sentences, explain the safest actions you would take before clicking anything.",
+      "rubric": [
+        {"point": "Check sender address and hover/preview the link for authenticity", "value": 1, "weight": 0.40},
+        {"point": "Avoid clicking; instead open the bank’s real website or app directly", "value": 1, "weight": 0.35},
+        {"point": "Keep 2FA enabled so stolen password alone is useless", "value": 1, "weight": 0.25}
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "PH01-T3-002",
+      "stem": "A text message claims your debit card will be deactivated today unless you reply with the OTP just sent to your phone. Briefly describe how you would verify this message and protect your account.",
+      "rubric": [
+        {"point": "Recognise smishing: urgent SMS asking for OTP is suspicious", "value": 1, "weight": 0.40},
+        {"point": "Call the bank using its official number or app, not the SMS link/number", "value": 1, "weight": 0.35},
+        {"point": "Never share OTP codes with anyone over SMS or phone", "value": 1, "weight": 0.25}
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "PH01-T4-003",
+      "stem": "At a food court you spot a QR code taped over the menu promising “scan for 50 % off today only.” In 1–3 sentences, outline the checks you would perform before scanning or entering any details.",
+      "rubric": [
+        {"point": "Consider quishing risk—QR may lead to malicious site", "value": 1, "weight": 0.40},
+        {"point": "Ask staff or compare with official menu code before scanning", "value": 1, "weight": 0.35},
+        {"point": "If scanned, inspect the URL and avoid entering credentials/payment info", "value": 1, "weight": 0.25}
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "PH01-T4-004",
+      "stem": "A late-night voicemail sounds like your friend begging for urgent cash and gives a new number to call back. In a short reply, explain the danger and the safest way to confirm the request.",
+      "rubric": [
+        {"point": "Identify vishing—voice impersonation can fake a friend’s request", "value": 1, "weight": 0.40},
+        {"point": "Verify through a known channel (their usual phone or in-person)", "value": 1, "weight": 0.35},
+        {"point": "Avoid sending money until identity is confirmed", "value": 1, "weight": 0.25}
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "PH01-T5-005",
+      "stem": "You clicked a giveaway link that asked for your email and password before you realised it was fake. Outline, in 2–3 sentences, a layered response to secure your account and devices.",
+      "rubric": [
+        {"point": "Change the exposed password immediately to a new unique one", "value": 1, "weight": 0.35},
+        {"point": "Enable or review 2FA so future logins need an extra code", "value": 1, "weight": 0.30},
+        {"point": "Run malware/antivirus scan and monitor account activity for misuse", "value": 1, "weight": 0.35}
+      ],
+      "difficulty": 5
+    }
+  ]
+}
